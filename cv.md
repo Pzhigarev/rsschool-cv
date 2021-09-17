@@ -68,4 +68,41 @@ In addition, I participate in all webinars related to JS.**
 
 
 **************
+# Code example:
+
+
+
+
+**Part of the code for the example**
+*this cycle does not work after pressing the button. If the data is entered correctly, it goes to the next instruction. If the following data is entered correctly, it displays a greeting. When you cancel the input, both windows are closed, if the data is incorrect, everything is repeated again.*
+
+
+
+
+*This cycle does not work after pressing the button. If the data is entered correctly, it goes to the next instruction. If the following data is entered correctly, it displays a greeting. When you cancel the input, both windows are closed, if the data is incorrect, everything is repeated again.*
+
+
+
+
+```javascript
+document.querySelector("#a-button").onclick = function(){
+// for userName
+    do{
+    newUser = prompt('введите логин :','Введите логин');
+    if (newUser == null) clouse;
+    } while (newUser !== userName);
+// for Password
+    do{
+    newPassword = prompt('Введите пароль','Введите пароль');
+    if (newPassword == null) clouse;
+    else if (newPassword == password)
+    chek1 = alert('Добрый день');
+    }while(newPassword !== password);
+    }
+```
+
+
+
+
+***********
 
