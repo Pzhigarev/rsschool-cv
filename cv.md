@@ -31,3 +31,28 @@ In addition, I participate in all webinars related to JS.**
 
 
 **I am also diligent, scrupulous, focused, and my main goal is the result!**
+
+
+****************
+
+# Skills and Proficiency: #
+
+- HTML5, CSS3
+
+
+- JavaScript
+
+
+- PHP
+
+
+- Python
+
+
+- Git, GitHub
+
+
+- VS Code
+
+
+**************
