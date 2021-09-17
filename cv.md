@@ -13,7 +13,8 @@
 **Telegram:** *@zhigarevv* 
 		
 		
-<code>[**Linkedin** ] (http://linkedin.com/in/pavel-zhyharau-599173214)</code> 
+<code>[Linkedin] (http://linkedin.com/in/pavel-zhyharau-599173214 "link")
+</code> 
 
 
 *************
@@ -56,3 +57,15 @@ In addition, I participate in all webinars related to JS.**
 
 
 **************
+
+
+# Courses: #
+
+**I completed courses from SkillUp where I successfully passed the exams in HTML/CSS and Mysql. I also took an intensive course from Snoop Game, after which I went to study independently on learn. javascript.**
+
+
+<code>![Сертификат](https://psv4.userapi.com/c534536/u68615984/docs/d50/ced7fff01a11/111.png?extra=nm3zsZRZ_ZYjUjnaUtK2-w8t-lGNeBZfAgfYnTgbvsQG56ieXWbLDXhU5sxChv9XLXPD7vOouRvoQwxtaGHciu9oEYwDSXMPiR1DZrsp1fXMbMTTjfsdYQ-A6QgdUZ86KmWQmFfxsFze5xAl-5JqBw)</code>
+
+
+**************
+
