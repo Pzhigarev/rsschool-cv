@@ -106,3 +106,22 @@ document.querySelector("#a-button").onclick = function(){
 
 ***********
 
+
+# Languages:
+
+
+
+
+**At the moment, the level of English is pre-intermediate+. I try to develop, I read books in English, I go through webinars. I regularly take online tests to monitor my progress.**
+
+
+
+
+- **Russian**
+
+
+
+
+- **Ukrainian**
+
+
